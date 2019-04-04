@@ -1,4 +1,4 @@
-## Vorraussetzungen
+## Voraussetzungen
 
 * [nodejs](https://nodejs.org/en/) muss installiert sein
 
