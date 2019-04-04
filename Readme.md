@@ -1,8 +1,8 @@
-##Vorraussetzungen
+## Vorraussetzungen
 
 * [nodejs](https://nodejs.org/en/) muss installiert sein
 
-##Abhängigkeiten installieren 
+## Abhängigkeiten installieren 
 
 __Einmalig:__
 ```
@@ -15,7 +15,7 @@ __Für das Projekt:__
 npm install
 ```
 
-##Entwicklungsserver starten
+## Entwicklungsserver starten
 
 ```
 gulp server
