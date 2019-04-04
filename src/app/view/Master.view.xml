@@ -1,0 +1,11 @@
+<mvc:View
+        controllerName="assessment.app.controller.Master"
+        displayBlock="true"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m"
+        height="100%">
+
+    <Page>
+        <Text text="Master" />
+    </Page>
+</mvc:View>

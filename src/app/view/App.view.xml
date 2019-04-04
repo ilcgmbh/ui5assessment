@@ -1,0 +1,11 @@
+<mvc:View
+        controllerName="assessment.app.controller.App"
+        displayBlock="true"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.f"
+        height="100%">
+
+    <FlexibleColumnLayout id="app" layout="{AppViewModel>/layout}" backgroundDesign="Solid"/>
+
+
+</mvc:View>

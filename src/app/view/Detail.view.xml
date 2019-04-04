@@ -1,0 +1,8 @@
+<mvc:View
+        controllerName="assessment.app.controller.Detail"
+        displayBlock="true"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m">
+
+    <Text text="Detail" />
+</mvc:View>
