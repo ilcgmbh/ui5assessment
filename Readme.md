@@ -40,7 +40,7 @@ Im Internet ist unter [https://services.odata.org/V2/Northwind/Northwind.svc/](h
 ein öffentlicher OData-Service mit Testdaten erreichbar. Dieser bietet ein recht komplexes Datenmodell, von dem zwei Entitätssets
 dargestellt werden sollen: Kunden (Customers) und ihre Bestellungen (Orders).
 
-Es ist eine sog. Master-Detail-App mittels sap.f.FlexibleColumnLayout vorbereitet. Setzen Sie folgende User-Stories um:
+Es ist eine sog. Master-Detail-App mittels sap.f.FlexibleColumnLayout vorbereitet. Setze die folgenden User-Stories um:
 
 ### 1 Kundenliste anzeigen
 
@@ -97,10 +97,9 @@ __Erläuterung:__
 
 Hier Beispiele zu Fragen die wir besprechen könnten:
 
-* Beschreiben sie was passiert, wenn die Anwendungs-URL aufgerufen wird.
+* Beschreibe was passiert, wenn die Anwendungs-URL aufgerufen wird.
 * Wo im Projekt wird der OData-Service referenziert?
 * Warum ist der Zugriff auf den OData-Service so gestaltet, wie er ist?
-* Wie haben Sie die Navigation zu einem der Kundendetails abgebildet?
+* Wie hast du die Navigation zu einem der Kundendetails abgebildet?
 
 
-  
